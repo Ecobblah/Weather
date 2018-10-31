@@ -5,3 +5,5 @@
 * php
 * Bootstrap
 * API
+
+Tells you the weather of a country.
